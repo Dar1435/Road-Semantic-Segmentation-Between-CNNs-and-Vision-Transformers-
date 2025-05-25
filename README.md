@@ -4,6 +4,9 @@ This project compares three models—ConvNeXt, C-UNet, and SegFormer—for seman
 
 ## 📁 Contents
 
+- `SegFormer_implmentation.ipynb`: Original SegFormer training
+- `Fine_Tuned_SegFormer.ipynb`: Fine-tuning SegFormer on a new dataset
+- `Light_C-Unet_implementation.ipynb`: C-UNet implementation
 
 
 ## 📂 Dataset

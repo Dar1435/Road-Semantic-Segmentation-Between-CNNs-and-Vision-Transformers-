@@ -7,6 +7,11 @@ This project compares three models—ConvNeXt, C-UNet, and SegFormer—for seman
 - `SegFormer_implmentation.ipynb`: Original SegFormer training
 - `Fine_Tuned_SegFormer.ipynb`: Fine-tuning SegFormer on a new dataset
 - `Light_C-Unet_implementation.ipynb`: C-UNet implementation
+- `model.py`: convnext model
+- `train2.py`: training file for convnext
+- `predict.py`: prediction method for convnext
+- `inference.py`: inference implementaion for convnext
+- `dataset.py`: dataset manipulation for convnext 
 
 
 ## 📂 Dataset

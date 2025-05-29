@@ -17,10 +17,10 @@ This project compares three models—ConvNeXt, C-UNet, and SegFormer—for seman
 ## 📂 Dataset
 
 We used the EPFL Road Segmentation Dataset. You can download it from:  
-[📎 Dataset Link]([https://drive.google.com/YOUR_LINK_HERE](https://www.kaggle.com/datasets/timothlaborie/roadsegmentation-boston-losangeles?select=images))
+https://drive.google.com/YOUR_LINK_HERE](https://www.kaggle.com/datasets/timothlaborie/roadsegmentation-boston-losangeles?select=images
 
 We fine tuned the SegFormer model using the satellite-road-segmentation kaggle Dataset. You can download it from:
-[📎 Dataset Link]([https://drive.google.com/YOUR_LINK_HERE](https://www.kaggle.com/datasets/timothlaborie/roadsegmentation-boston-losangeles?select=images))
+https://www.kaggle.com/datasets/timothlaborie/roadsegmentation-boston-losangeles?select=images
 
 ## Results
 
